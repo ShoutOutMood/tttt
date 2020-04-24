@@ -11,7 +11,8 @@ public class Test {
       System.out.println("abcd");
       
       System.out.println("더 진행1");
-      System.out.println("계속해서 진행하지");
+      System.out.println("계속해서 진행하지"); 
+      System.out.println("언제까지 어깨춤을 추게할거야");
 	}
 
 }
