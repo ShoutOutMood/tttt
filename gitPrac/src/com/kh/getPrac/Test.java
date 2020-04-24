@@ -14,6 +14,8 @@ public class Test {
       System.out.println("陪 褻錳!!!");
       
       System.out.println("zzzz");
+      
+      System.out.println("六六六六");
 
 	}
 
